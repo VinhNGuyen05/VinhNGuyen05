@@ -65,9 +65,6 @@
   <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
     <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50"/></code>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <code><img src="./images/mysql.svg" alt="MySQL" height="65"/></code>
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <code><img src="./images/mongodb.svg" alt="MongoDB" height="50"/></code>
   </a>
