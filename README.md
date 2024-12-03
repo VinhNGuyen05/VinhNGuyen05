@@ -72,7 +72,7 @@
 
 <h2>Badges</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&layout=compact&theme=dark" 
        alt="Top Languages" 
        style="min-width: 500px; height: 300px;">
   <br>
