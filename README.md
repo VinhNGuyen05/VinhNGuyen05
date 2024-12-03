@@ -50,15 +50,15 @@
   <a href="https://nextjs.org/" target="_blank">
     <code><img src="./images/next.svg" alt="NextJS" height="45"/></code>
   </a>
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://reactnative.dev/" target="_blank">
     <code><img src="./images/react-native.svg" alt="ReactNative" height="45"/></code>
   </a>
   <br>
   <a href="https://mui.com/material-ui/" target="_blank">
     <code><img src="./images/mui.svg" alt="Material UI" height="50"/></code>
   </a>
-  <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
-    <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50"/></code>
+  <a href="https://ant.design/" target="_blank">
+    <code><img src="./images/ant-design.svg" alt="Ant Design" height="50"/></code>
   </a>
 </p>
 
