@@ -8,8 +8,11 @@
 <br />
 <br />
 
-<p align="left">🌍 I'm based in Vietnam</p>
-<p align="left">🌍 I'm based in Vietnam</p>
+<p align="left">
+    🌍 I'm based in Vietnam <br>
+    🌍 I'm based in Vietnam
+</p>
+
 <!-- Tech stack -->
 <h2>Tech stack</h2>
 
