@@ -60,6 +60,12 @@
   <a href="https://ant.design/" target="_blank">
     <code><img src="./images/ant-design.svg" alt="Ant Design" height="50"/></code>
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <code><img src="./images/bootstrap.svg" alt="Bootstrap" height="50"/></code>
+  </a>
+  <a href="https://www.chakra-ui.com/" target="_blank">
+    <code><img src="./images/chakra-ui.svg" alt="ChakraUI" height="50"/></code>
+  </a>
 </p>
 
 <br>
