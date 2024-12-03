@@ -113,12 +113,21 @@
   <a href="https://dbeaver.io/" target="_blank">
     <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50"/></code>
   </a>
+  <a href="https://expo.dev/" target="_blank">
+    <code><img src="./images/expo.svg" alt="Expo" height="50"/></code>
+  </a>
   <br>
   <br>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <code><img src="./images/jira.svg" alt="Jira" height="50"/></code>
   </a>
+   <a href="https://www.figma.com/" target="_blank">
+    <code><img src="./images/figma.svg" alt="Figma" height="50"/></code>
+  </a>
 </p>
+
+<br>
+<br>
 
 <p align="center">
   <b>Source Control</b>
@@ -134,8 +143,6 @@
     <code><img src="./images/gitlab.svg" alt="GitLab" height="50"/></code>
   </a>
 </p>
-
-
 
 <br>
 <br>
