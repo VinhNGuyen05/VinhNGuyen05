@@ -18,6 +18,7 @@
 ### Badges
 
 <b>My GitHub Stats</b>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&hide_progress=true)
 
 <a href="http://www.github.com/VinhNGuyen05"><img src="https://github-readme-stats.vercel.app/api?username=VinhNGuyen05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinhNGuyen05's GitHub stats" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vinh%20Nguyen&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
