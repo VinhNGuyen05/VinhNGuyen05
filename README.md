@@ -1,7 +1,7 @@
 <!-- Say hello -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&multiline=true&width=435&lines=Hello%2C+I'm+Vinh+Nguyen!!!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Vinh+Nguyen.+Front-end+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -91,15 +91,13 @@
 <br>
 
 <h2>Badges</h2>
-<p align="center" style="display: flex">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&layout=compact&theme=dark" 
        alt="Top Languages" 
-       style="min-width: 500px; height: 300px;">
-  <br>
+       style="min-width: 300px; max-width: 45%; height: auto;">
   <a href="http://www.github.com/VinhNGuyen05">
     <img src="https://github-readme-stats.vercel.app/api?username=VinhNGuyen05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" 
          alt="GitHub Stats" 
-         style="min-width: 500px; height: 300px;">
+         style="min-width: 300px; max-width: 45%; height: auto;">
   </a>
-  <br>
 </p>
