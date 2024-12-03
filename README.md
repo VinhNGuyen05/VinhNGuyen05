@@ -70,6 +70,9 @@
   <a href="https://sass-lang.com/" target="_blank">
     <code><img src="./images/sass.svg" alt="Sass" height="50"/></code>
   </a>
+  <a href="https://styled-components.com/" target="_blank">
+    <code><img src="./images/styled-components.svg" alt="Styled components" height="50"/></code>
+  </a>
 </p>
 
 <br>
@@ -83,7 +86,7 @@
   <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
     <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50"/></code>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <code><img src="./images/mongodb.svg" alt="MongoDB" height="50"/></code>
   </a>
 </p>
@@ -95,8 +98,8 @@
   <b>Tools</b>
   <br>
   <br>
-  <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
-    <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50"/></code>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <code><img src="./images/visual-studio-code.svg" alt="Visual Studio code" height="50"/></code>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <code><img src="./images/mongodb.svg" alt="MongoDB" height="50"/></code>
