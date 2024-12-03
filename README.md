@@ -54,6 +54,7 @@
     <code><img src="./images/react-native.svg" alt="ReactNative" height="45"/></code>
   </a>
   <br>
+  <br>
   <a href="https://mui.com/material-ui/" target="_blank">
     <code><img src="./images/mui.svg" alt="Material UI" height="50"/></code>
   </a>
@@ -65,6 +66,9 @@
   </a>
   <a href="https://www.chakra-ui.com/" target="_blank">
     <code><img src="./images/chakra-ui.svg" alt="ChakraUI" height="50"/></code>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <code><img src="./images/sass.svg" alt="Sass" height="50"/></code>
   </a>
 </p>
 
