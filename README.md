@@ -53,6 +53,12 @@
   <a href="https://reactnative.dev/" target="_blank">
     <code><img src="./images/react-native.svg" alt="ReactNative" height="45"/></code>
   </a>
+      <a href="https://tanstack.com/" target="_blank">
+    <code><img src="./images/tanstack.svg" alt="Tanstack" height="45"/></code>
+  </a>
+      <a href="https://redux.js.org/" target="_blank">
+    <code><img src="./images/redux.svg" alt="Redux" height="45"/></code>
+  </a>
   <br>
   <br>
   <a href="https://mui.com/material-ui/" target="_blank">
