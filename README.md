@@ -72,11 +72,10 @@
 
 <h2>Badges</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&hide_progress=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&" alt="Top Languages">
   <br>
   <a href="http://www.github.com/VinhNGuyen05">
     <img src="https://github-readme-stats.vercel.app/api?username=VinhNGuyen05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats">
   </a>
   <br>
 </p>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=VinhNGuyen05&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
