@@ -49,9 +49,6 @@
   <a href="https://mui.com/material-ui/" target="_blank">
     <code><img src="./images/mui.svg" alt="Material UI" height="50"/></code>
   </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <code><img src="./images/flutter.svg" alt="Flutter" height="45"/></code>
-  </a>
   <br>
 </p>
 
@@ -81,7 +78,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=VinhNGuyen05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats">
   </a>
   <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Vinh%20Nguyen&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="GitHub Streak">
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VinhNGuyen05&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
