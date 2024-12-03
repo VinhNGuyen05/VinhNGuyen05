@@ -74,7 +74,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&" 
        alt="Top Languages" 
-       style="width: 400px; height: 200px;">
+       style="width: 500px; height: 300px;">
   <br>
   <a href="http://www.github.com/VinhNGuyen05">
     <img src="https://github-readme-stats.vercel.app/api?username=VinhNGuyen05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" 
