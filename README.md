@@ -52,21 +52,12 @@
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <code><img src="./images/react-native.svg" alt="ReactNative" height="45"/></code>
-  
-  <br>
-  <br>
-</a>
+  </a>
       <a href="https://tanstack.com/" target="_blank">
     <code><img src="./images/tanstack.svg" alt="Tanstack" height="45"/></code>
   </a>
       <a href="https://redux.js.org/" target="_blank">
     <code><img src="./images/redux.svg" alt="Redux" height="45"/></code>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <code><img src="./images/sass.svg" alt="Sass" height="50"/></code>
-  </a>
-  <a href="https://styled-components.com/" target="_blank">
-    <code><img src="./images/styled-components.svg" alt="Styled components" height="50"/></code>
   </a>
   <br>
   <br>
@@ -82,11 +73,17 @@
   <a href="https://www.chakra-ui.com/" target="_blank">
     <code><img src="./images/chakra-ui.svg" alt="ChakraUI" height="50"/></code>
   </a>
-  
+  <a href="https://sass-lang.com/" target="_blank">
+    <code><img src="./images/sass.svg" alt="Sass" height="50"/></code>
+  </a>
+  <a href="https://styled-components.com/" target="_blank">
+    <code><img src="./images/styled-components.svg" alt="Styled components" height="50"/></code>
+  </a>
 </p>
 
 <br>
 <br>
+
 
 <p align="center">
   <b>Databases</b>
