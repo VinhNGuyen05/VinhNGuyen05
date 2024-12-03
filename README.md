@@ -113,7 +113,29 @@
   <a href="https://dbeaver.io/" target="_blank">
     <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50"/></code>
   </a>
+  <br>
+  <br>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <code><img src="./images/jira.svg" alt="Jira" height="50"/></code>
+  </a>
 </p>
+
+<p align="center">
+  <b>Source Control</b>
+  <br>
+  <br>
+    <a href="https://git-scm.com/" target="_blank">
+    <code><img src="./images/git.svg" alt="Git" height="50"/></code>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <code><img src="./images/github.svg" alt="GitHub" height="50"/></code>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank">
+    <code><img src="./images/gitlab.svg" alt="GitLab" height="50"/></code>
+  </a>
+</p>
+
+
 
 <br>
 <br>
