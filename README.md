@@ -17,17 +17,17 @@
   <b>Languages</b>
   <br>
   <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="50"/></code>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="./images/typescript.svg" alt="TypeScript" height="50"/></code>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="./images/javascript.svg" alt="JavaScript" height="50"/></code>
+  <a href="https://www.java.com" target="_blank">
+    <code><img src="./images/java.svg" alt="Java" height="50"/></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <code><img src="./images/c.svg" alt="C" height="50"/></code>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <code><img src="./images/java.svg" alt="Java" height="50"/></code>
   </a>
 </p>
 
@@ -45,15 +45,21 @@
     <code><img src="./images/css.svg" alt="CSS" height="58"/></code>
   </a>
   <a href="https://react.dev/" target="_blank">
-    <code><img src="./images/react.svg" alt="React" height="45"/></code>
+    <code><img src="./images/react.svg" alt="ReactJS" height="45"/></code>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <code><img src="./images/next.svg" alt="React" height="45"/></code>
+    <code><img src="./images/next.svg" alt="NextJS" height="45"/></code>
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <code><img src="./images/react-native.svg" alt="ReactNative" height="45"/></code>
+  </a>
+  <br>
   <a href="https://mui.com/material-ui/" target="_blank">
     <code><img src="./images/mui.svg" alt="Material UI" height="50"/></code>
   </a>
-  <br>
+  <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
+    <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50"/></code>
+  </a>
 </p>
 
 <br>
