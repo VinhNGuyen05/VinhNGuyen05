@@ -101,8 +101,11 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <code><img src="./images/visual-studio-code.svg" alt="Visual Studio code" height="50"/></code>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <code><img src="./images/mongodb.svg" alt="MongoDB" height="50"/></code>
+  <a href="https://www.postman.com/" target="_blank">
+    <code><img src="./images/postman.svg" alt="Postman" height="50"/></code>
+  </a>
+  <a href="https://dbeaver.io/" target="_blank">
+    <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50"/></code>
   </a>
 </p>
 
