@@ -78,5 +78,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=VinhNGuyen05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats">
   </a>
   <br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=VinhNGuyen05&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=VinhNGuyen05&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
