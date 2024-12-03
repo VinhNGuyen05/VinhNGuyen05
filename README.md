@@ -12,6 +12,7 @@
 
 <!-- Tech stack -->
 <h2>Tech stack</h2>
+
 <p align="center">
   <b>Languages</b>
   <br>
@@ -46,6 +47,9 @@
   <a href="https://react.dev/" target="_blank">
     <code><img src="./images/react.svg" alt="React" height="45"/></code>
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <code><img src="./images/next.svg" alt="React" height="45"/></code>
+  </a>
   <a href="https://mui.com/material-ui/" target="_blank">
     <code><img src="./images/mui.svg" alt="Material UI" height="50"/></code>
   </a>
@@ -54,6 +58,7 @@
 
 <br>
 <br>
+
 
 <p align="center">
   <b>Databases</b>
@@ -70,8 +75,23 @@
 <br>
 <br>
 
-<h2>Badges</h2>
 <p align="center">
+  <b>Tools</b>
+  <br>
+  <br>
+  <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
+    <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50"/></code>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <code><img src="./images/mongodb.svg" alt="MongoDB" height="50"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<h2>Badges</h2>
+<p align="center" style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&layout=compact&theme=dark" 
        alt="Top Languages" 
        style="min-width: 500px; height: 300px;">
@@ -79,7 +99,7 @@
   <a href="http://www.github.com/VinhNGuyen05">
     <img src="https://github-readme-stats.vercel.app/api?username=VinhNGuyen05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" 
          alt="GitHub Stats" 
-         style="width: 500px; height: 300px;">
+         style="min-width: 500px; height: 300px;">
   </a>
   <br>
 </p>
