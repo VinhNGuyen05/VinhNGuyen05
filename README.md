@@ -1,74 +1,82 @@
+<!-- Say hello -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&multiline=true&width=435&lines=Hello%2C+I'm+Vinh+Nguyen!!!+" alt="Typing SVG">
   </a>
 </div>
 
-<hr>
+<br>
+<br>
 
 <h2 align="center">🌍 I'm based in Vietnam</h2>
 
-<h2>Skills</h2>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<!-- Tech stack -->
+<h2>Tech stack</h2>
+<p align="center">
+  <b>Languages</b>
+  <br>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/typescript.svg" alt="TypeScript" height="50"/></code>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="50"/></code>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <code><img src="./images/c.svg" alt="C" height="50"/></code>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <a href="https://www.java.com" target="_blank">
+    <code><img src="./images/java.svg" alt="Java" height="50"/></code>
   </a>
 </p>
 
-<h2>Socials</h2>
-<p align="left">
-  <a href="https://www.facebook.com/ngaogner05/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+<br>
+<br>
+
+<p align="center">
+  <b>Frontend</b>
+  <br>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <code><img src="./images/html.svg" alt="HTML" height="58"/></code>
   </a>
-  <a href="https://www.github.com/VinhNGuyen05" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <code><img src="./images/css.svg" alt="CSS" height="58"/></code>
   </a>
-  <a href="https://www.linkedin.com/in/vinh-nguyễn-646260217" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  <a href="https://react.dev/" target="_blank">
+    <code><img src="./images/react.svg" alt="React" height="45"/></code>
+  </a>
+  <a href="https://mui.com/material-ui/" target="_blank">
+    <code><img src="./images/mui.svg" alt="Material UI" height="50"/></code>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <code><img src="./images/flutter.svg" alt="Flutter" height="45"/></code>
+  </a>
+  <br>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Databases</b>
+  <br>
+  <br>
+  <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
+    <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50"/></code>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <code><img src="./images/mysql.svg" alt="MySQL" height="65"/></code>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <code><img src="./images/mongodb.svg" alt="MongoDB" height="50"/></code>
   </a>
 </p>
+
+<br>
+<br>
 
 <h2>Badges</h2>
-<b>My GitHub Stats</b>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhNGuyen05&hide_progress=true" alt="Top Languages">
   <br>
