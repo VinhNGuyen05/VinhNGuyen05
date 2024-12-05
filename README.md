@@ -50,9 +50,9 @@
     <a href="https://react.dev/" target="_blank">
         <code><img src="./images/react.svg" alt="ReactJS" height="45" /></code>
     </a>
-    <a href="https://nextjs.org/" target="_blank">
+    <!-- <a href="https://nextjs.org/" target="_blank">
         <code><img src="./images/next.svg" alt="NextJS" height="45" /></code>
-    </a>
+    </a> -->
     <a href="https://reactnative.dev/" target="_blank">
         <code><img src="./images/react-native.svg" alt="ReactNative" height="45" /></code>
     </a>
