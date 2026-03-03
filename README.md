@@ -1,7 +1,7 @@
 <!-- Say hello -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Hello%2C+I'm+Vinh+Nguyen.+Front-end+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Hello%2C+I'm+Vinh+Nguyen.+Web+Developer" alt="Typing SVG" />
     </a>
 </div>
 
@@ -50,9 +50,9 @@
     <a href="https://react.dev/" target="_blank">
         <code><img src="./images/react.svg" alt="ReactJS" height="45" /></code>
     </a>
-    <!-- <a href="https://nextjs.org/" target="_blank">
+    <a href="https://nextjs.org/" target="_blank">
         <code><img src="./images/next.svg" alt="NextJS" height="45" /></code>
-    </a> -->
+    </a>
     <a href="https://reactnative.dev/" target="_blank">
         <code><img src="./images/react-native.svg" alt="ReactNative" height="45" /></code>
     </a>
@@ -97,6 +97,9 @@
     <a href="https://www.mongodb.com/" target="_blank">
         <code><img src="./images/mongodb.svg" alt="MongoDB" height="50" /></code>
     </a>
+    <a href="https://dbeaver.io/" target="_blank">
+        <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50" /></code>
+    </a>
 </p>
 
 <br />
@@ -111,9 +114,6 @@
     </a>
     <a href="https://www.postman.com/" target="_blank">
         <code><img src="./images/postman.svg" alt="Postman" height="50" /></code>
-    </a>
-    <a href="https://dbeaver.io/" target="_blank">
-        <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50" /></code>
     </a>
     <a href="https://expo.dev/" target="_blank">
         <code><img src="./images/expo.svg" alt="Expo" height="50" /></code>
