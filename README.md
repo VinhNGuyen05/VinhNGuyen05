@@ -23,13 +23,13 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <code><img src="./images/javascript.svg" alt="JavaScript" height="50" /></code>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <a href="https://typescriptlang.org" target="_blank">
         <code><img src="./images/typescript.svg" alt="TypeScript" height="50" /></code>
     </a>
     <a href="https://www.java.com" target="_blank">
         <code><img src="./images/java.svg" alt="Java" height="50" /></code>
     </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <a href="https://c-language.org" target="_blank">
         <code><img src="./images/c.svg" alt="C" height="50" /></code>
     </a>
 </p>
@@ -88,6 +88,18 @@
 <br />
 
 <p align="center">
+    <b>Backend</b>
+    <br />
+    <br />
+    <a href="https://nestjs.com" target="_blank">
+        <code><img src="./images/nestjs.svg" alt="NestJS" height="50" /></code>
+    </a>
+</p>
+
+<br />
+<br />
+
+<p align="center">
     <b>Databases</b>
     <br />
     <br />
@@ -99,6 +111,24 @@
     </a>
     <a href="https://dbeaver.io/" target="_blank">
         <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50" /></code>
+    </a>
+    <a href="https://redis.io/" target="_blank">
+        <code><img src="./images/redis.png" alt="Redis" height="50" /></code>
+    </a>
+</p>
+
+<br />
+<br />
+
+<p align="center">
+    <b>DevOps</b>
+    <br />
+    <br />
+    <a href="https://docker.com" target="_blank">
+        <code><img src="./images/docker.svg" alt="Docker" height="50" /></code>
+    </a>
+    <a href="https://kubernetes.io" target="_blank">
+        <code><img src="./images/k8s.svg" alt="Kubernetes" height="50" /></code>
     </a>
 </p>
 
