@@ -10,7 +10,7 @@
 
 <p align="left">
     🌍 I'm based in Vietnam <br>
-    🌍 I'm based in Vietnam
+    Frontend Developer @ Vietnam · React / Next.js / TypeScript · UI-UX minded · expanding into Backend, DevOps & system design
 </p>
 
 <!-- Tech stack -->
