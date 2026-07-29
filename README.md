@@ -113,7 +113,7 @@
         <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50" /></code>
     </a>
     <a href="https://redis.io/" target="_blank">
-        <code><img src="./images/redis.png" alt="Redis" height="50" /></code>
+        <code><img src="./images/redis.svg" alt="Redis" height="50" /></code>
     </a>
 </p>
 
