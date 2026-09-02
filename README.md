@@ -9,7 +9,7 @@
 <br />
 
 <p align="left">
-    I build web applications — and I keep them running. I started on the frontend: an e-commerce store, a learning management system, then real-time trading apps used by traders at 10+ securities firms. Along the way I got curious about what happens after the build — how code gets packaged, deployed, and monitored. That curiosity became my current role. <br />Today I work in DevOps Engineer, deploying and operating internal platforms on Kubernetes and researching the centralized building blocks — identity, API gateway, caching, observability — that our teams reuse. <br /> What ties it together: I like owning a product from the first requirements conversation to the last deployment.
+    I build web applications — and I keep them running. I started on the frontend: an e-commerce store, a learning management system, then real-time trading apps used by traders at 10+ securities firms. Along the way I got curious about what happens after the build — how code gets packaged, deployed, and monitored. That curiosity became my current role. <br /> <br />Today I work in DevOps Engineer, deploying and operating internal platforms on Kubernetes and researching the centralized building blocks — identity, API gateway, caching, observability — that our teams reuse. <br /> <br /> What ties it together: I like owning a product from the first requirements conversation to the last deployment.
 </p>
 
 <!-- Tech stack -->
@@ -65,9 +65,6 @@
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
         <code><img src="./images/bootstrap.svg" alt="Bootstrap" height="50" /></code>
-    </a>
-    <a href="https://www.chakra-ui.com/" target="_blank">
-        <code><img src="./images/chakra-ui.svg" alt="ChakraUI" height="50" /></code>
     </a>
     <a href="https://sass-lang.com/" target="_blank">
         <code><img src="./images/sass.svg" alt="Sass" height="50" /></code>
@@ -135,8 +132,6 @@
     <a href="https://www.postman.com/" target="_blank">
         <code><img src="./images/postman.svg" alt="Postman" height="50" /></code>
     </a>
-    <br />
-    <br />
     <a href="https://www.atlassian.com/software/jira" target="_blank">
         <code><img src="./images/jira.svg" alt="Jira" height="50" /></code>
     </a>
