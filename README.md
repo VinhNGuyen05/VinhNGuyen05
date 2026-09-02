@@ -9,8 +9,7 @@
 <br />
 
 <p align="left">
-    🌍 I'm based in Vietnam <br>
-    Frontend Developer @ Vietnam · React / Next.js / TypeScript · UI-UX minded · expanding into Backend, DevOps & system design
+    I build web applications — and I keep them running. I started on the frontend: an e-commerce store, a learning management system, then real-time trading apps used by traders at 10+ securities firms. Along the way I got curious about what happens after the build — how code gets packaged, deployed, and monitored. That curiosity became my current role. <br />Today I work in DevOps Engineer, deploying and operating internal platforms on Kubernetes and researching the centralized building blocks — identity, API gateway, caching, observability — that our teams reuse. <br /> What ties it together: I like owning a product from the first requirements conversation to the last deployment.
 </p>
 
 <!-- Tech stack -->
