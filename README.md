@@ -25,12 +25,6 @@
     <a href="https://typescriptlang.org" target="_blank">
         <code><img src="./images/typescript.svg" alt="TypeScript" height="50" /></code>
     </a>
-    <a href="https://www.java.com" target="_blank">
-        <code><img src="./images/java.svg" alt="Java" height="50" /></code>
-    </a>
-    <a href="https://c-language.org" target="_blank">
-        <code><img src="./images/c.svg" alt="C" height="50" /></code>
-    </a>
 </p>
 
 <br />
@@ -105,9 +99,6 @@
     <a href="https://www.wikiwand.com/en/Microsoft_SQL_Server" target="_blank">
         <code><img src="./images/sql-server.svg" alt="MSSQL Server" height="50" /></code>
     </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <code><img src="./images/mongodb.svg" alt="MongoDB" height="50" /></code>
-    </a>
     <a href="https://dbeaver.io/" target="_blank">
         <code><img src="./images/dbeaver.svg" alt="DBeaver" height="50" /></code>
     </a>
@@ -143,9 +134,6 @@
     </a>
     <a href="https://www.postman.com/" target="_blank">
         <code><img src="./images/postman.svg" alt="Postman" height="50" /></code>
-    </a>
-    <a href="https://expo.dev/" target="_blank">
-        <code><img src="./images/expo.svg" alt="Expo" height="50" /></code>
     </a>
     <br />
     <br />
